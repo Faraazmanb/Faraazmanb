@@ -27,7 +27,7 @@ Welcome to my corner of GitHub! Here's a glimpse into my world:
 ## 📈 My Most Used Languages  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraazman&layout=compact&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraazmanb&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ---
