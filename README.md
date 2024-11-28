@@ -1,6 +1,6 @@
-# ❤️ LOVE TO TORTURE DATA  
+# 👋 Hi, I'm Mohamed Faraazman!   
 
-### 👋 Hi, I'm Mohamed Faraazman!  
+## ❤️ Love to torture data: From Raw Bytes to Pure Insgihts
 
 Welcome to my corner of GitHub! Here's a glimpse into my world:
 
