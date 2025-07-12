@@ -8,8 +8,8 @@ Welcome to my corner of GitHub! Here's a glimpse into my world:
 
 ## 🚀 About Me  
 
-- 🎓 **Final-Year B.Tech in Artificial Intelligence and Data Science**  
-- 💡 Passionate about **AI, Machine Learning, and Data Engineering**  
+- 🎓 **B.Tech in Artificial Intelligence and Data Science**  
+- 💡 Passionate about **AI, Machine Learning, Deep Learning and Data Engineering**  
 - 🌱 Continuously exploring new technologies, including **NLP**, **Deep Learning**, and **Data Visualization**  
 - 🌐 Check out my [Portfolio Website](https://mohamedfaraazman.me)  
 
