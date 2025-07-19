@@ -39,15 +39,8 @@ Welcome to my corner of GitHub! Here's a glimpse into my world:
 
 ## 👨‍💼 Freelance & Project Work
 
-- 🚀 **Freelance Frontend Developer** as part of a growing team  
-  - 🕌 *Alnoor Palace*: Landing page + Hospital Management System (HMS)  
-  - 💍 *Hassan Jewellers*: Elegant product-first website  
-  - 📈 Working on more websites for local businesses using **React + Vite + PostgreSQL**
-
-- 🤝 **Collaborative Projects**
-  - Worked as **frontend designer** in multiple college team projects  
-  - Lead data analyst in academic and internship projects (Power BI, ML models)
-
+- 🚀 **Freelance Frontend Developer** as part of a growing team
+- Confidential
 ---
 
 ## 🧠 Certifications
